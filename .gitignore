@@ -1,4 +1,4 @@
-a.config
+/a.config
 *.log
 .htaccess
 sitemap.xml
